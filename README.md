@@ -102,7 +102,7 @@ In summary, the data imputation using KNN and the removal of columns with a high
   - Pha
   - Conditional\_code
 
-![Categorical Data Plots](Graphs&plots\categorical_data_plot.png)
+![Categorical Data Plots](.\Graphs&plots\categorical_data_plot.png)
 
 ### Correlation Visualization
 
@@ -112,26 +112,26 @@ Visualized data with Heatmap and plots b/w
 - a vs per\_y
 - a vs ad
 
-![Heatmap](Graphs&plots\Heatmap.png)
+![Heatmap](.\Graphs&plots\Heatmap.png)
 
   - Dropping Correlated Columns
     - per
     - per\_y
     - ad
 
-![a vs per](Graphs&plots\Scatter_Plot_of_a_vs_per.png) 
+![a vs per](.\Graphs&plots\Scatter_Plot_of_a_vs_per.png) 
 
-![a vs per_y](Graphs&plots\Scatter_Plot_of_a_vs_per_y.png) 
+![a vs per_y](.\Graphs&plots\Scatter_Plot_of_a_vs_per_y.png) 
 
-![a vs ad](Graphs&plots\Scatter_Plot_of_a_vs_ad.png)
+![a vs ad](.\Graphs&plots\Scatter_Plot_of_a_vs_ad.png)
 
 ### Histogram Plotting
 
-![Histograms](Graphs&plots\numerical_data_plot.png)
+![Histograms](.\Graphs&plots\numerical_data_plot.png)
 
 ### Box plots
 
-![Box plots](Graphs&plots\numerical_data_Box_plots.png)
+![Box plots](.\Graphs&plots\numerical_data_Box_plots.png)
 
 ## 4. Modeling
 
